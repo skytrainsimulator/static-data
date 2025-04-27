@@ -1,0 +1,7 @@
+style_id,switch_type,color
+geo,direct,#FF0000
+geo,field,#FF7700
+geo,manual,#666666
+schematic,direct,#FF0000
+schematic,field,#FF7700
+schematic,manual,#666666

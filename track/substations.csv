@@ -1,0 +1,30 @@
+substation_id,full_name,notes
+BDZ,Braid Substation,NULL
+BQZ,Burquitlam Substation,NULL
+BWZ,Broadway Substation,NULL
+CMZ,Commercial Substation,NULL
+COZ,Columbia Substation,NULL
+EDZ,Edmonds Substation,NULL
+FCZ,Falcon Substation,NULL
+GMZ,Gilmore Substation,NULL
+GWZ,Gateway Substation,NULL
+HOZ,Holdom Substation,NULL
+JYZ,Joyce Substation,NULL
+KGZ,King George Substation,NULL
+LAZ,Lafarge Lake Substation,NULL
+LCZ,Lake City Substation,NULL
+LHZ,Lougheed Substation,NULL
+MFZ,Maintenance Facility Substation,NULL
+MNZ,Main St. Substation,NULL
+NAZ,Nanaimo Substation,NULL
+NPZ,North Portal Substation,NULL
+NWZ,New Westminster Substation,NULL
+PTZ,Patterson Substation,NULL
+PWZ,Production Way Substation,NULL
+REZ,Renfrew Substation,NULL
+ROZ,Royal Oak Substation,NULL
+SAZ,Sapperton Substation,NULL
+SRZ,Scott Road Substation,NULL
+STZ,Stadium Substation,NULL
+TSZ,22nd Street Substation,NULL
+WFZ,Waterfront Substation,NULL

@@ -1,0 +1,6 @@
+scale_key,maps
+trace-EL,"{trace-VCC4-1,trace-VCC4-2,trace-VCC4-3}"
+trace-EVG,"{trace-VCC5-1,trace-VCC5-2,trace-VCC5-3}"
+trace-ML,"{trace-VCC1-1,trace-VCC1-2,trace-VCC2-1,trace-VCC2-2,trace-VCC2-3,trace-VCC2-4,trace-VCC2-5}"
+trace-OMC1,{trace-OMC1}
+trace-OMC3,{trace-OMC3}

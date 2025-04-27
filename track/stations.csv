@@ -1,0 +1,42 @@
+station_id,full_name,gtfs_id,notes
+BD,Braid,NULL,NULL
+BQ,Burquitlam,NULL,NULL
+BR,Brentwood Town Centre,NULL,NULL
+BU,Burrard,NULL,NULL
+BW,Broadway,NULL,NULL
+CC,Coquitlam Central,NULL,NULL
+CM,Commercial,NULL,NULL
+CO,Columbia,NULL,NULL
+ED,Edmonds,NULL,NULL
+GM,Gilmore,NULL,NULL
+GV,Granville,NULL,NULL
+GW,Gateway,NULL,NULL
+HO,Holdom,NULL,NULL
+IC,Inlet Centre,NULL,NULL
+JY,Joyce-Collingwood,NULL,NULL
+KG,King George,NULL,NULL
+LA,Lafarge Lake-Douglas,NULL,NULL
+LC,Lake City Way,NULL,NULL
+LH,Lougheed Town Centre,NULL,NULL
+LN,Lincoln,NULL,NULL
+MC,Moody Centre,NULL,NULL
+MF,Operations & Maintenance Centre 1,NULL,NULL
+MN,Main Street-Science World,NULL,NULL
+MT,Metrotown,NULL,NULL
+NA,Nanaimo,NULL,NULL
+NW,New Westminster,NULL,NULL
+PT,Patterson,NULL,NULL
+PW,Production Way-University,NULL,NULL
+RE,Renfrew,NULL,NULL
+RO,Royal Oak,NULL,NULL
+RU,Rupert,NULL,NULL
+SA,Sapperton,NULL,NULL
+SC,Surrey Central,NULL,NULL
+SP,Sperling-Burnaby Lake,NULL,NULL
+SR,Scott Road,NULL,NULL
+ST,Stadium-Chinatown,NULL,NULL
+TN,29th Avenue,NULL,NULL
+TS,22nd Street,NULL,NULL
+VC,VCC-Clark,NULL,NULL
+VS,Vehicle Storage Facility,NULL,NULL
+WF,Waterfront,NULL,NULL

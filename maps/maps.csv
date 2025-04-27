@@ -1,0 +1,17 @@
+srid,map_id,style_id,notes
+4326,geo,geo,NULL
+0,trace-OMC1,schematic,NULL
+0,trace-OMC3,schematic,NULL
+0,trace-VCC1-1,schematic,NULL
+0,trace-VCC1-2,schematic,NULL
+0,trace-VCC2-1,schematic,NULL
+0,trace-VCC2-2,schematic,NULL
+0,trace-VCC2-3,schematic,NULL
+0,trace-VCC2-4,schematic,NULL
+0,trace-VCC2-5,schematic,NULL
+0,trace-VCC4-1,schematic,NULL
+0,trace-VCC4-2,schematic,NULL
+0,trace-VCC4-3,schematic,NULL
+0,trace-VCC5-1,schematic,NULL
+0,trace-VCC5-2,schematic,NULL
+0,trace-VCC5-3,schematic,NULL
