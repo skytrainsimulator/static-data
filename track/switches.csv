@@ -1,5 +1,5 @@
 switch_id,node_id,switch_type,turnout_side,common_fragment,left_fragment,right_fragment,notes
-1,bf5f31b9-838b-4992-b414-bce29f15047d,direct,left,a5d5f84e-10aa-4cb4-8455-41572632877e,da8b8300-1a97-4f1a-be8c-d4d03da99d6f,a340dfa1-c19b-44d4-963f-fd34d17211a2,verify turnout side
+1,bf5f31b9-838b-4992-b414-bce29f15047d,direct,left,a5d5f84e-10aa-4cb4-8455-41572632877e,da8b8300-1a97-4f1a-be8c-d4d03da99d6f,a340dfa1-c19b-44d4-963f-fd34d17211a2,NULL
 2,228531fd-c541-4750-b911-3e1d6b952e27,direct,right,0ebcf5dd-6b20-4f49-8454-27e6a9c27c02,4d5f8c9c-6d98-4e96-aa85-3e09538cff83,3d3e7e42-d612-493c-ae0e-ccb082fea00a,NULL
 3,fff71c90-4e4f-4eb9-b37a-cb12b9bcdd7b,direct,left,5ab9a682-245b-4084-97b8-63eed441b191,a3e7a56f-54b0-4dd7-aad3-daac8c299a1e,abbd28ed-2842-419a-a1da-f5304da53eb2,NULL
 4,e5f31315-1aa5-4e26-8323-3643c5f255f8,direct,left,2b388a5a-099e-463a-9bc7-ecc3a4a64b17,28e1bc95-7be6-4362-ae65-2946cd1548a6,7eb2c386-78bd-4a49-868d-1193bf105f3a,NULL
