@@ -90,10 +90,10 @@ ESJYO,cb9ddbcd-b3ec-40d6-8110-25e6350a248e,fb13e561-817e-4c4e-8895-c372b2338122,
 ESKGI,869338c7-8fe6-413d-be3f-2c1e97297e93,02df13f2-4300-4b81-9a8b-9e50985870c2,00ca279a-711a-4499-8276-f2aa74649c3e,electrical_switch,NULL,f,t,NULL
 ESKGO,02113c74-ca34-4fe5-a46c-0ec1149ac3d8,e54dc9ed-6f62-43cb-8a64-7e68c69b1556,017278de-3f7e-4ad5-b678-66e8dcb230d6,electrical_switch,NULL,f,t,NULL
 ESKGX,217ecf92-43bb-468c-9caa-04e9075b4805,8bbb8303-438d-4ba8-afb3-e3737ef95d34,9e8ec360-738a-451f-ae45-1e6cb00e644b,electrical_switch,NULL,f,t,NULL
+ESLA1,NULL,db36e4cb-185b-4640-839d-e8d988e906ca,1aaa3aa1-0255-468e-9774-521ec83744d6,cross_connect_switch,NULL,t,t,NULL
 ESLAI,f13b354f-dc35-453c-a643-955dbd9b5932,ed8ab47f-85f8-4a8d-a5fa-5bbe6f2b2955,c3d5f7f9-6560-4e8a-9336-2493475eb93b,electrical_switch,NULL,f,t,NULL
 ESLAO/1,ee63c335-fd7c-4ef3-b0ea-ca2670f7d55e,40b3dd3b-18dd-4589-89c1-8929f141b9e2,2ca26f73-6e78-4e07-909e-195cc2fb5ff4,electrical_switch,NULL,f,t,NULL
 ESLAO/2,268b95a4-37a4-4d80-aada-252d340b4f51,2ca26f73-6e78-4e07-909e-195cc2fb5ff4,a88d024c-27ba-4047-8b5b-d0af3c93b651,electrical_switch,NULL,f,t,NULL
-ESLAX,NULL,db36e4cb-185b-4640-839d-e8d988e906ca,1aaa3aa1-0255-468e-9774-521ec83744d6,cross_connect_switch,NULL,t,t,NULL
 ESLCO,5312d30a-1ac3-47fb-bb11-d69b51e73eef,544feef2-a8cf-443f-87e6-1dac4216c865,9560239c-e71a-4820-8faf-c8e90aed1d48,electrical_switch,NULL,f,t,NULL
 ESLHI,1bed19ad-d5e7-4895-9794-579529aa414f,0870bd31-d598-4500-8278-b0b74ade8e7d,b4a4ebeb-aec5-4757-a48e-48f7f0eaadfd,electrical_switch,NULL,f,t,NULL
 ESLHO/1,a6e3a5b9-1e19-4cc3-be37-9415334d45ee,af8e208d-8195-40bd-99cf-ccfc8d822b02,ef0988c3-bdc6-46be-b8c3-2edfa64dd0bf,electrical_switch,NULL,f,t,NULL
